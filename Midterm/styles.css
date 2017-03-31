@@ -1,0 +1,31 @@
+head {
+    color:black;
+    font-family: Tahoma;
+}
+    
+    
+body {
+    color:black;
+    font-family: Tahoma;
+    font-size:32pt;
+    padding: 100px;
+}
+
+a {
+    color: hotpink;
+}
+
+div {
+    padding: 10px;
+    font-size: 20px;
+}
+
+div {
+    padding:10px;
+}
+
+p {
+    color:black;
+    font-family: Tahoma;
+    font-size: 8pt;
+}
