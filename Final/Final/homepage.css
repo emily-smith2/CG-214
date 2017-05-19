@@ -1,0 +1,146 @@
+
+body {
+  margin: 0;  
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+    font-family: 'Work Sans', sans-serif;
+    letter-spacing: .075em;
+}
+
+.parallaximage1 {
+    background-image: url("images/firstpage2.jpg");
+  
+    min-height: 905px;
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.scrollingdiv {
+    font: helvetica;
+    padding-top: 4px;
+    padding-left: 40px;
+    height: 63px;
+    background-color: black;
+    font-size: 10px;
+    color: #999;
+    
+}
+
+a {
+    color: black;
+}
+
+.parallaximage2 {
+    background-image: url("images/firstpage3.jpg");
+
+    min-height: 905px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage3 {
+    background-image: url("images/cinematic.jpg");
+
+    min-height: 905px; 
+   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage4 {
+    background-image: url("images/human.jpg");
+
+    min-height: 905px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage5 {
+    background-image: url("images/ron4.jpg");
+  
+    min-height: 905px; 
+   
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage6 {
+    background-image: url("images/frank.jpg");
+ 
+    min-height: 905px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaximage7 {
+    background-image: url("images/nextimage5.jpg");
+ 
+    min-height: 905px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaximage8 {
+    background-image: url("images/Perry.jpg");
+ 
+    min-height: 905px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaximage9 {
+    background-image: url("images/evil.jpg");
+ 
+    min-height: 905px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage10 {
+    background-image: url("images/resume.jpg");
+ 
+    min-height: 905px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallaximage11 {
+    background-image: url("images/Intangible.jpg");
+ 
+    min-height: 905px; 
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
